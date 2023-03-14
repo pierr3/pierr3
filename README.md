@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @pierr3
 - 👀 I’m interested in AI, Algorithmic Bias, Law & Aviation
-- 📫 How to reach me: @pierre_eth on Twitter
