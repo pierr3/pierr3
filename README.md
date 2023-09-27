@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @pierr3
-- 👀 I’m interested in AI, Artificial Intelligence, Law & Aviation
+- 👀 I’m interested in AI Alignment, Law & Aviation
